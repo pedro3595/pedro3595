@@ -27,10 +27,12 @@ Estou cursando Análise e Dev. Sistema, sou apaixonado por <strong> Front-End </
   [**pedro3595**](https://www.instagram.com/__pedro3595_/) 
   <br/>
   <br/>
+  <br/>
   [<img align="left" height="94px" width="94px" alt="Gmail" src="https://cdn.discordapp.com/attachments/813883317539569675/1113605618050285629/gmail.png"/>](mailto:pedro3595123@gmail.com)
     <br/>
     **Gmail**\
     [**pedro3595123@gmail.com**](mailto:pedro3595123@gmail.com) 
+    <br/>
     <br/>
     <br/>
   [<img align="left" height="94px" width="94px" alt="Linkedin" src="https://cdn.discordapp.com/attachments/813883317539569675/1113606793101332582/linkedin.png"/>](https://www.linkedin.com/in/pedro3595/)
@@ -39,7 +41,7 @@ Estou cursando Análise e Dev. Sistema, sou apaixonado por <strong> Front-End </
     [**pedro3595**](https://www.linkedin.com/in/pedro3595/) 
     <br/>
     <br/>
-    
+    <br/>
 <!-- <div>
   ![Snake animation](https://github.com/pedro3595/pedro3595/blob/output/github-contribution-grid-snake.svg)
 </div> -->
